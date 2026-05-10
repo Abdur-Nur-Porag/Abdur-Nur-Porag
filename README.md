@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Porag!&fontSize=70&animation=fadeIn&fontAlignY=38" alt="Header Banner"/>
 
-  <a href="https://github.com/Abdur-Nur-Porag">
-    <img src="https://komarev.com/ghpvc/?username=Abdur-Nur-Porag&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
+
 </div>
 
 <br>
