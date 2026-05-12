@@ -14,13 +14,15 @@
 
 ---
 Currently Working On [CarbonFramework](https://github.com/Abdur-Nur-Porag/CarbonFramework)
+# Most Recent
+1. 😎 My `CList-Calc` Obsidian Plugin is available in `Obsidian Community Plugin` [See](https://github.com/Abdur-Nur-Porag/CList-Calc)   
 
 ## My Projects
 
 | Project Name    | Descriptions                           | Status           | Link                                                      |
 | --------------- | -------------------------------------- | ---------------- | --------------------------------------------------------- |
 | CarbonFramework | Cross Platform UIKit And Render Engine | Active           | [See](https://github.com/Abdur-Nur-Porag/CarbonFramework) |
-| CList-Calc      | Obsidian Community Plugin              | Ready For Review | [See](https://github.com/Abdur-Nur-Porag/CList-Calc)      |
+| CList-Calc      | Obsidian Community Plugin              | ✅Published | [See](https://github.com/Abdur-Nur-Porag/CList-Calc)      |
 
 <div align="center">
 
