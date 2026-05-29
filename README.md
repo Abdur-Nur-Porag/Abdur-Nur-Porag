@@ -8,21 +8,25 @@
 
 <p align="center">
   <a href="https://github.com/Abdur-Nur-Porag">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&lines=%E2%9A%A0%EF%B8%8F+Status%3A+Busy+heavily+working+on+CarbonFramework;%F0%9F%9A%80+Building+PixelEngine;Cross+Platform+Support+Engine;Material+Design" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&lines=%E2%9A%A0%EF%B8%8F+Status%3A+Busy+heavily+working" alt="Status"/>
   </a>
 </p>
 
 ---
 Currently Working On [CarbonFramework](https://github.com/Abdur-Nur-Porag/CarbonFramework)
 # Most Recent
-1. 😎 My `CList-Calc` Obsidian Plugin is available in `Obsidian Community Plugin` [See](https://github.com/Abdur-Nur-Porag/CList-Calc)   
+1. 😎 My `CList-Calc` Obsidian Plugin is available in `Obsidian Community Plugin` [See](https://github.com/Abdur-Nur-Porag/CList-Calc)
+2. 📅 `CEvent Planner` - Event Planning Application [See](https://github.com/Abdur-Nur-Porag/CEvent-Planner)
+3. ⭐ `CEvent Planner Extra` - Enhanced Event Planning Features [See](https://github.com/Abdur-Nur-Porag/CEvent-Planner-Extra)
 
 ## My Projects
 
-| Project Name    | Descriptions                           | Status           | Link                                                      |
-| --------------- | -------------------------------------- | ---------------- | --------------------------------------------------------- |
-| CarbonFramework | Cross Platform UIKit And Render Engine | Active           | [See](https://github.com/Abdur-Nur-Porag/CarbonFramework) |
-| CList-Calc      | Obsidian Community Plugin              | ✅Published | [See](https://github.com/Abdur-Nur-Porag/CList-Calc)      |
+| Project Name    | Descriptions                           | Status           | Link                                                      | Obsidian Store                                                    |
+| --------------- | -------------------------------------- | ---------------- | --------------------------------------------------------- | ----------------------------------------------------------------- |
+| CarbonFramework | Cross Platform UIKit And Render Engine | Active           | [See](https://github.com/Abdur-Nur-Porag/CarbonFramework) | -                                                                 |
+| CList-Calc      | Obsidian Community Plugin              | ✅Published | [See](https://github.com/Abdur-Nur-Porag/CList-Calc)      | [Open](obsidian://show-plugin?id=clist-calc)                      |
+| CEvent Planner  | Event Planning Application             | ✅Published           | [See](https://github.com/Abdur-Nur-Porag/CEvent-Planner)  | [Open](obsidian://show-plugin?id=cevent-planner)                  |
+| CEvent Planner Extra | Enhanced Event Planning Features    | ✅Published           | [See](https://github.com/Abdur-Nur-Porag/CEvent-Planner-Extra) | [Open](obsidian://show-plugin?id=cevent-planner-extra)            |
 
 <div align="center">
 
