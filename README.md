@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Porag!&fontSize=70&animation=fadeIn&fontAlignY=38" alt="Header Banner"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Porag!&fontSize=70&animation=fadeIn&fontAlignY=38" alt="Header Banner[...]
+ 
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Abdur-Nur-Porag">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&lines=%E2%9A%A0%EF%B8%8F+Status%3A+Busy+heavily+working" alt="Status"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&lines=%E2%9A%A0%EF%B8%8F+Status%3A+Busy+heavily+w[...]
   </a>
 </p>
 
@@ -26,14 +26,15 @@ Currently Working On [CarbonFramework](https://github.com/Abdur-Nur-Porag/Carbon
 | Project Name    | Descriptions                           | Status           | Link                                                      |
 | --------------- | -------------------------------------- | ---------------- | --------------------------------------------------------- |
 | CarbonFramework | Cross Platform UIKit And Render Engine | Active           | [See](https://github.com/Abdur-Nur-Porag/CarbonFramework) |
+| Curnx           | Your project description               | Active           | [See](https://github.com/Abdur-Nur-Porag/Curnx)           |
 
 ### 🔌 Obsidian Plugins
 
 | Plugin Name    | Descriptions                           | Status           | GitHub Link                                              | Obsidian Store                                           |
-| --------------- | -------------------------------------- | ---------------- | --------------------------------------------------------- | -------------------------------------------------------- |
+| --------------- | -------------------------------------- | ---------------- | --------------------------------------------------------- | --------------------------------------------------------[...]
 | CList-Calc      | Obsidian Community Plugin              | ✅Published | [See](https://github.com/Abdur-Nur-Porag/CList-Calc)      | [Open](https://community.obsidian.md/plugins/clist-calc) |
-| CEvent Planner  | Event Planning Application             | ✅Published | [See](https://github.com/Abdur-Nur-Porag/CEvent-Planner)  | [Open](https://community.obsidian.md/plugins/cevent-planner) |
-| CEvent Planner Extra | Enhanced Event Planning Features    | ✅Published | [See](https://github.com/Abdur-Nur-Porag/CEvent-Planner-Extra) | [Open](https://community.obsidian.md/plugins/cevent-planner-extra) |
+| CEvent Planner  | Event Planning Application             | ✅Published | [See](https://github.com/Abdur-Nur-Porag/CEvent-Planner)  | [Open](https://community.obsidian.md/plugins/cevent-planner)[...]
+| CEvent Planner Extra | Enhanced Event Planning Features    | ✅Published | [See](https://github.com/Abdur-Nur-Porag/CEvent-Planner-Extra) | [Open](https://community.obsidian.md/plugins/cevent-p[...]
 
 <div align="center">
 
