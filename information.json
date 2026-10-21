@@ -1,0 +1,95 @@
+{
+  "siteTitle": "My personal blog",
+  "referenceDate": "2026-10-24T23:50:00",
+  "profile": {
+    "name": "Abdur Nur Porag",
+    "email": "xyz@gmail.com",
+    "github": "github.com/AbdurNurPorag",
+    "avatar": "",
+    "bio": "Hi, I am Abdur Nur Porag. This is my personal blog.",
+    "socials": [
+      {
+        "type": "facebook",
+        "label": "Facebook",
+        "url": "https://facebook.com/AbdurNurPorag"
+      },
+      {
+        "type": "instagram",
+        "label": "Instagram",
+        "url": "https://instagram.com/AbdurNurPorag"
+      },
+      {
+        "type": "x",
+        "label": "X",
+        "url": "https://x.com/AbdurNurPorag"
+      }
+    ]
+  },
+  "labels": {
+    "dashboardButton": "Go Dashboard",
+    "dashboardTitle": "Dashboard",
+    "share": "Share",
+    "copied": "Link copied",
+    "seeMore": "See more",
+    "seeLess": "See less",
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "earlier": "Earlier",
+    "emptySection": "Nothing posted here yet.",
+    "notFound": "This post could not be found.",
+    "loadMore": "Show more posts",
+    "loading": "Loading",
+    "goTop": "Go to top",
+    "shareDay": "Share this day",
+    "noPostsDay": "No posts found for this day.",
+    "email": "Email",
+    "github": "GitHub",
+    "statPosts": "posts",
+    "statLast": "Last post",
+    "pinned": "Pinned post",
+    "showPinned": "Show pinned posts",
+    "unpin": "Dismiss pin",
+    "prevPin": "Previous pin",
+    "nextPin": "Next pin"
+  },
+  "types": {
+    "info": {
+      "label": "Information",
+      "color": "#2f6fb3",
+      "bg": "#dcebf8"
+    },
+    "success": {
+      "label": "Good news",
+      "color": "#2e8b4e",
+      "bg": "#d6efdc"
+    },
+    "warning": {
+      "label": "Warning",
+      "color": "#d99100",
+      "bg": "#fff0c4"
+    },
+    "important": {
+      "label": "Important",
+      "color": "#7b45b5",
+      "bg": "#ebdff7"
+    },
+    "danger": {
+      "label": "Danger",
+      "color": "#d64933",
+      "bg": "#fbdcd7"
+    },
+    "urgent": {
+      "label": "Urgent",
+      "color": "#e8641b",
+      "bg": "#ffe4d2"
+    },
+    "note": {
+      "label": "Note",
+      "color": "#6b7a6f",
+      "bg": "#e6efe3"
+    }
+  },
+  "postsFile": "posts.json",
+  "pageSize": 10,
+  "footer": "© 2026 Abdur Nur Porag. All rights reserved."
+}
