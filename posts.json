@@ -1,0 +1,347 @@
+[
+  {
+    "id": "8199990",
+    "date": "2026-10-24T23:26:00",
+    "type": "info",
+    "title": "Trail notes for the weekend",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "notes",
+      "weekend"
+    ],
+    "body": "The forest path was quiet and the light came through the canopy in long green stripes. We walked the lower loop first, then climbed to the ridge where the view opens over the valley. Bring water, wear good boots, and leave nothing behind. More details and photos will follow in the next update.",
+    "pinned": true
+  },
+  {
+    "id": "8199991",
+    "date": "2026-10-24T20:20:00",
+    "type": "success",
+    "title": "Bridge closed",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "alert"
+    ],
+    "body": "<p><b>Heads up:</b> the upper trail is <mark>muddy</mark> after the rain.</p><ul><li>Wear good boots</li><li>Bring a towel</li></ul><p>Map: <a href=\"https://www.openstreetmap.org\">OpenStreetMap</a></p>",
+    "format": "html"
+  },
+  {
+    "id": "8199992",
+    "date": "2026-10-24T14:02:00",
+    "type": "warning",
+    "title": "Seedlings planted",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "community"
+    ],
+    "body": "Conditions on the trail are good. Please stay on marked paths and check the notice board before heading out.",
+    "pinned": true
+  },
+  {
+    "id": "8199993",
+    "date": "2026-10-24T08:50:00",
+    "type": "important",
+    "title": "Morning fog over the valley",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "nature"
+    ],
+    "body": "The forest path was quiet and the light came through the canopy in long green stripes. We walked the lower loop first, then climbed to the ridge where the view opens over the valley. Bring water, wear good boots, and leave nothing behind. More details and photos will follow in the next update."
+  },
+  {
+    "id": "8199994",
+    "date": "2026-10-24T02:08:00",
+    "type": "danger",
+    "title": "New map uploaded",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "notes",
+      "weekend"
+    ],
+    "body": "A short update for everyone following the trail."
+  },
+  {
+    "id": "8199995",
+    "date": "2026-10-23T22:50:00",
+    "type": "urgent",
+    "title": "Volunteer sign-up open",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "alert"
+    ],
+    "body": "<h3>Trail checklist</h3><p>Everything you need for a <em>quiet</em> day outside:</p><ol><li>Water</li><li>Snacks</li><li>A paper map</li></ol><blockquote>Take only photos, leave only footprints.</blockquote>",
+    "format": "html"
+  },
+  {
+    "id": "8199996",
+    "date": "2026-10-23T18:50:00",
+    "type": "note",
+    "title": "Stream cleanup report",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "community"
+    ],
+    "body": "The forest path was quiet and the light came through the canopy in long green stripes. We walked the lower loop first, then climbed to the ridge where the view opens over the valley. Bring water, wear good boots, and leave nothing behind. More details and photos will follow in the next update.",
+    "pinned": true
+  },
+  {
+    "id": "8199997",
+    "date": "2026-10-23T11:50:00",
+    "type": "info",
+    "title": "Fallen pine removed",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "nature"
+    ],
+    "body": "A short update for everyone following the trail."
+  },
+  {
+    "id": "8199998",
+    "date": "2026-10-23T03:50:00",
+    "type": "success",
+    "title": "Birdwatching log",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "notes",
+      "weekend"
+    ],
+    "body": "Conditions on the trail are good. Please stay on marked paths and check the notice board before heading out."
+  },
+  {
+    "id": "8199999",
+    "date": "2026-10-22T16:50:00",
+    "type": "warning",
+    "title": "Campfire rules updated",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "alert"
+    ],
+    "body": "<p>Raw HTML works too: <code>&lt;b&gt;bold&lt;/b&gt;</code>, <u>underline</u>, <a href=\"https://example.com\">links</a> and even <span style=\"color:#2e8b4e;font-weight:700\">inline styles</span>.</p><script>alert(\"blocked\")</script>",
+    "format": "html"
+  },
+  {
+    "id": "8200000",
+    "date": "2026-10-22T12:50:00",
+    "type": "important",
+    "title": "Mushroom season begins",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "community"
+    ],
+    "body": "A short update for everyone following the trail."
+  },
+  {
+    "id": "8200001",
+    "date": "2026-10-21T17:50:00",
+    "type": "danger",
+    "title": "Lower loop reopened",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "nature"
+    ],
+    "body": "Conditions on the trail are good. Please stay on marked paths and check the notice board before heading out."
+  },
+  {
+    "id": "8200002",
+    "date": "2026-10-21T14:50:00",
+    "type": "urgent",
+    "title": "Night walk cancelled",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "notes",
+      "weekend"
+    ],
+    "body": "The forest path was quiet and the light came through the canopy in long green stripes. We walked the lower loop first, then climbed to the ridge where the view opens over the valley. Bring water, wear good boots, and leave nothing behind. More details and photos will follow in the next update."
+  },
+  {
+    "id": "8200003",
+    "date": "2026-10-20T20:50:00",
+    "type": "note",
+    "title": "Fresh water point fixed",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "alert"
+    ],
+    "body": "A short update for everyone following the trail."
+  },
+  {
+    "id": "8200004",
+    "date": "2026-10-19T16:50:00",
+    "type": "info",
+    "title": "Photo walk recap",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "community"
+    ],
+    "body": "Conditions on the trail are good. Please stay on marked paths and check the notice board before heading out."
+  },
+  {
+    "id": "8200005",
+    "date": "2026-10-19T11:50:00",
+    "type": "success",
+    "title": "Ridge viewpoint tips",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "nature"
+    ],
+    "body": "The forest path was quiet and the light came through the canopy in long green stripes. We walked the lower loop first, then climbed to the ridge where the view opens over the valley. Bring water, wear good boots, and leave nothing behind. More details and photos will follow in the next update.",
+    "pinned": true
+  },
+  {
+    "id": "8200006",
+    "date": "2026-10-18T08:50:00",
+    "type": "warning",
+    "title": "Gate code changed",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "notes",
+      "weekend"
+    ],
+    "body": "A short update for everyone following the trail."
+  },
+  {
+    "id": "8200007",
+    "date": "2026-10-17T19:50:00",
+    "type": "important",
+    "title": "Trail marker repainted",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "alert"
+    ],
+    "body": "Conditions on the trail are good. Please stay on marked paths and check the notice board before heading out."
+  },
+  {
+    "id": "8200008",
+    "date": "2026-10-17T08:50:00",
+    "type": "danger",
+    "title": "Rain forecast warning",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "community"
+    ],
+    "body": "The forest path was quiet and the light came through the canopy in long green stripes. We walked the lower loop first, then climbed to the ridge where the view opens over the valley. Bring water, wear good boots, and leave nothing behind. More details and photos will follow in the next update."
+  },
+  {
+    "id": "8200009",
+    "date": "2026-10-16T21:50:00",
+    "type": "urgent",
+    "title": "Wildflower count",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "nature"
+    ],
+    "body": "A short update for everyone following the trail."
+  },
+  {
+    "id": "8200010",
+    "date": "2026-10-16T10:50:00",
+    "type": "note",
+    "title": "Parking lot full",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "notes",
+      "weekend"
+    ],
+    "body": "Conditions on the trail are good. Please stay on marked paths and check the notice board before heading out."
+  },
+  {
+    "id": "8200011",
+    "date": "2026-10-15T21:50:00",
+    "type": "info",
+    "title": "Moss garden visit",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "alert"
+    ],
+    "body": "The forest path was quiet and the light came through the canopy in long green stripes. We walked the lower loop first, then climbed to the ridge where the view opens over the valley. Bring water, wear good boots, and leave nothing behind. More details and photos will follow in the next update."
+  },
+  {
+    "id": "8200012",
+    "date": "2026-10-15T21:50:00",
+    "type": "success",
+    "title": "Elk sighting",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "community"
+    ],
+    "body": "A short update for everyone following the trail."
+  },
+  {
+    "id": "8200013",
+    "date": "2026-10-14T23:50:00",
+    "type": "warning",
+    "title": "Storm damage check",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "nature"
+    ],
+    "body": "Conditions on the trail are good. Please stay on marked paths and check the notice board before heading out."
+  },
+  {
+    "id": "8200014",
+    "date": "2026-10-13T11:50:00",
+    "type": "important",
+    "title": "Weekly summary",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "notes",
+      "weekend"
+    ],
+    "body": "The forest path was quiet and the light came through the canopy in long green stripes. We walked the lower loop first, then climbed to the ridge where the view opens over the valley. Bring water, wear good boots, and leave nothing behind. More details and photos will follow in the next update."
+  },
+  {
+    "id": "8200015",
+    "date": "2026-10-13T06:50:00",
+    "type": "danger",
+    "title": "Owl nest found",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "alert"
+    ],
+    "body": "A short update for everyone following the trail."
+  },
+  {
+    "id": "8200016",
+    "date": "2026-10-12T14:50:00",
+    "type": "urgent",
+    "title": "Boardwalk repairs",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "community"
+    ],
+    "body": "Conditions on the trail are good. Please stay on marked paths and check the notice board before heading out."
+  },
+  {
+    "id": "8200017",
+    "date": "2026-10-12T06:50:00",
+    "type": "note",
+    "title": "Cold front arriving",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "nature"
+    ],
+    "body": "The forest path was quiet and the light came through the canopy in long green stripes. We walked the lower loop first, then climbed to the ridge where the view opens over the valley. Bring water, wear good boots, and leave nothing behind. More details and photos will follow in the next update."
+  },
+  {
+    "id": "8200018",
+    "date": "2026-10-11T19:50:00",
+    "type": "info",
+    "title": "Litter patrol results",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "notes",
+      "weekend"
+    ],
+    "body": "A short update for everyone following the trail."
+  },
+  {
+    "id": "8200019",
+    "date": "2026-10-11T14:50:00",
+    "type": "success",
+    "title": "Sunrise hike photos",
+    "author": "Abdur Nur Porag",
+    "tags": [
+      "alert"
+    ],
+    "body": "Conditions on the trail are good. Please stay on marked paths and check the notice board before heading out."
+  }
+]
