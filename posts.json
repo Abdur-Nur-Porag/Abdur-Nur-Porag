@@ -1,13 +1,1 @@
-[
-  {
-    "id": "1",
-    "date": "2026-10-22T12:00:00",
-    "type": "info",
-    "title": "This is first example post, you are seeing from netlifyweb",
-    "body": "This is first example post, you are seeing from netlifyweb.",
-    "tags": ["example", "netlifyweb"],
-    "author": "Abdur Nur Porag",
-    "pinned": false,
-    "format": "text"
-  }
-]
+[]
