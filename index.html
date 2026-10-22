@@ -173,29 +173,28 @@
         </div>
 
         <script>
-    let loaderHidden = false;
+            let loaderHidden = false;
 
-    function hideLoader() {
-        if (loaderHidden) return;
-        loaderHidden = true;
+            function hideLoader() {
+                if (loaderHidden) return;
+                loaderHidden = true;
 
-        const loader = document.getElementById('loading');
-        const iframe = document.getElementById('blogFrame');
+                const loader = document.getElementById("loading");
+                const iframe = document.getElementById("blogFrame");
 
-        if (loader && iframe) {
-            loader.style.opacity = '0';
-            loader.style.visibility = 'hidden';
-            iframe.classList.add('loaded');
-        }
-    }
+                if (loader && iframe) {
+                    loader.style.opacity = "0";
+                    loader.style.visibility = "hidden";
+                    iframe.classList.add("loaded");
+                }
+            }
 
-    // Fallback: Hide loader after 4 seconds if iframe fails to trigger onload
-    setTimeout(function() {
-        if (!loaderHidden) {
-            hideLoader();
-        }
-    }, 4000);
-</script>
-
+            // Fallback: Hide loader after 4 seconds if iframe fails to trigger onload
+            setTimeout(function () {
+                if (!loaderHidden) {
+                    hideLoader();
+                }
+            }, 4000);
+        </script>
     </body>
 </html>
