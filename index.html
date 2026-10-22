@@ -35,7 +35,6 @@
 
         <style>
             :root {
-                /* Material Design Forest Green Palette */
                 --md-sys-color-primary: #1b382b;
                 --md-sys-color-primary-container: #d2ebd9;
                 --md-sys-color-surface: #f7fbf6;
@@ -124,7 +123,53 @@
                 }
             }
 
-            /* Clean Borderless iFrame */
+            /* Fallback View if Iframe Fails */
+            .fallback-view {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                display: none;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                background-color: var(--md-sys-color-surface);
+                text-align: center;
+                padding: 24px;
+                z-index: 5;
+            }
+
+            .fallback-view h2 {
+                margin-bottom: 8px;
+                font-weight: 700;
+                color: var(--md-sys-color-primary);
+            }
+
+            .fallback-view p {
+                color: var(--md-sys-color-on-surface-variant);
+                margin-bottom: 24px;
+                max-width: 380px;
+                font-size: 0.95rem;
+                line-height: 1.4;
+            }
+
+            .blog-btn {
+                background-color: var(--md-sys-color-primary);
+                color: #ffffff;
+                padding: 12px 28px;
+                border-radius: 24px;
+                text-decoration: none;
+                font-weight: 500;
+                box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+                transition: opacity 0.2s ease;
+            }
+
+            .blog-btn:hover {
+                opacity: 0.9;
+            }
+
+            /* Borderless iFrame */
             .blog-iframe {
                 width: 100%;
                 height: 100%;
@@ -151,6 +196,15 @@
                 <div class="linear-progress" role="progressbar" aria-label="Loading blog content">
                     <div class="bar"></div>
                 </div>
+            </div>
+
+            <!-- Fallback view when iframe is blocked by hosting provider -->
+            <div id="fallback" class="fallback-view">
+                <h2>Abdur Nur Porag Blog</h2>
+                <p>This browser security setting prevents embedding the blog directly here. Click below to open it securely.</p>
+                <a href="https://poragblog.42web.io" target="_blank" rel="noopener noreferrer" class="blog-btn">
+                    Open Blog in New Tab
+                </a>
             </div>
 
             <!-- Borderless Full-Screen iFrame -->
@@ -181,12 +235,18 @@
                 }
             }
 
-            // Safety Fallback: Hides loader automatically after 4 seconds if the iframe gets blocked
+            // Fallback: If iframe gets blocked and cannot load, hide loader and reveal fallback screen
             setTimeout(function() {
                 if (!loaderHidden) {
                     hideLoader();
+                    const iframe = document.getElementById('blogFrame');
+                    const fallback = document.getElementById('fallback');
+                    // Check if iframe content window is inaccessible or blank
+                    if (iframe && fallback) {
+                        fallback.style.display = 'flex';
+                    }
                 }
-            }, 4000);
+            }, 3500);
         </script>
     </body>
 </html>
